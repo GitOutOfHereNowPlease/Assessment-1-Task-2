@@ -108,7 +108,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Committed
         D. Modified
 
-        Answer:
+        Answer: B
 
 12. Immediately after you commit, where is the commit located?
 
@@ -117,7 +117,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Local repository
         D. Local repository and remote repository
 
-        Answer:
+        Answer: D
 
 13. Which one of these statements about remote repositories is true?
 
@@ -126,7 +126,7 @@ You must document each item in “Description Process and Commands” column, li
         C. By convention, remote repository names end in ".git".
         D. You must have one remote repository for each local repository.
 
-        Answer:
+        Answer: 
 
 14. What is a local copy of a remote repository called?
 
@@ -135,16 +135,16 @@ You must document each item in “Description Process and Commands” column, li
         C. Clone
         D. Master
 
-        Answer:
+        Answer: C
 
 15. After you clone a repository, which one of the following is true?
 
         A. New commits to the local repository will automatically be pushed to the remote repository.
         B. The remote repository information is available in the local repository.
         C. New commits on the remote repository will automatically be added to the local repository.
-        D. Only the most recent commit is available locally.
+        D. Only the most recent commit is available locally. no
 
-        Answer:
+        Answer: B
 
 16. What is origin?
 
@@ -153,7 +153,7 @@ You must document each item in “Description Process and Commands” column, li
         C. An alias for the remote repository's URL.
         D. The first commit of the repository.
 
-        Answer:
+        Answer: C
 
 17. What must you do to add a local commit to the remote repository?
 
@@ -162,7 +162,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Pull
         D. Merge
  
-        Answer:
+        Answer: C
 
 
 # Completed Module 1 - Please commit your changes with your answers using GitHub Desktop or Visual Studio
